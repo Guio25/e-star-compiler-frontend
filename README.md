@@ -53,10 +53,10 @@ The following table lists the supported operators and their usual semantics.
 | &&        | 2           | left            |
 |!          | 3           |                 |
 |==, !=, <, <=, >, >=| 4  |                 |
-|+, - (binario)| 5        | left            |
+|+, - (binary)| 5        | left            |
 |*, /, %    | 6           | left            |
 |**         | 7           | right           |
-|- (unario) | 8           |                 |
+|- (unary) | 8           |                 |
 |++, -- (pre e post)| 9   |                 |
 |& (reference), $ (dereference)       | 10          |                 |
 
