@@ -9,6 +9,7 @@ The compiler outputs an intermediate representation called *Three Address Code*.
 | Alex      | 3.5.1.0  |
 | Happy     | 2.0.2    |
 | GHC       | 9.8.2    |
+| cabal     | 3.14.1.1 |
 
 To compile the sources, run the `make` command.  
 To run a demo, use the `make demo` command.  
